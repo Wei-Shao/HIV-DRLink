@@ -1,0 +1,1668 @@
+[
+  {
+    "mutations": [
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L10I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "K20R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "M36I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "R41K"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "M46I"
+      }, 
+      {
+        "primaryType": "Accessory", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "F53L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "Q61N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L63P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "A71V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "T74S"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "V82T"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "N88S"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L90M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I93L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K20R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V35I"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "M41L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V60I"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D67N"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K70R"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V75M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K101Q"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K104N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K122E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D123E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I135R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q207E"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T215F"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K219Q"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "L228H"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V245K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A272P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T286N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A288S"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I293V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q334N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "M357T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "R358K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K390R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A400T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T403V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V466A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q509H"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K527N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S17N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "R20K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "V31I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "L101I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T124A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T125V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "G163E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "V201I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T206S"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "I217V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T218S"
+      }
+    ], 
+    "inputSequence": {
+      "header": "B.JP.2000.DR2508.AB289587"
+    }
+  }, 
+  {
+    "mutations": [
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L10I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "K20R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "M36I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "R41K"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "M46I"
+      }, 
+      {
+        "primaryType": "Accessory", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "F53L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "Q61N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L63P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "A71V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "T74S"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "V82T"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "N88S"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L90M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I93L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K20R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V35I"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "M41L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V60I"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D67N"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K70R"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V75M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K101Q"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K104N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K122E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D123E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I135R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q207E"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T215F"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K219Q"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "L228H"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V245K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A272P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T286N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A288S"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I293V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q334N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "M357T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "R358K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K390R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A400T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T403V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V466A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q509H"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K527N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S17N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "R20K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "V31I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "L101I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T124A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T125V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "G163E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "V201I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T206S"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "I217V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T218S"
+      }
+    ], 
+    "inputSequence": {
+      "header": "B.JP.2000.DR2508.AB289588"
+    }
+  }, 
+  {
+    "mutations": [
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L10I"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "D30N"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "M46I"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I54L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L63P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "A71T"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I84V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I85V"
+      }, 
+      {
+        "primaryType": "Accessory", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "N88D"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L90M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I93L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "E28K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V35I"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D67N"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K70R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I135V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "S162C"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T200I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q207E"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T215F"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K219Q"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V245T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V317A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I329L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "M357T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A400T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V435E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "N447D"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "L452I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D460N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "R461K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q480E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K530R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S39C"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S57N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "I84M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S119T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "V201I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T206S"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "A265V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "D286N"
+      }
+    ], 
+    "inputSequence": {
+      "header": "B.JP.2001.DR388.AB289589"
+    }
+  }, 
+  {
+    "mutations": [
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L10I"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "D30N"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "M46I"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I54L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L63P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "A71T"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I84V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I85V"
+      }, 
+      {
+        "primaryType": "Accessory", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "N88D"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L90M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I93L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "E28K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V35I"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D67N"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K70R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I135V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "S162C"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T200I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q207E"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T215F"
+      }, 
+      {
+        "primaryType": "NRTI", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K219Q"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V245T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V317A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I329L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "M357T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A400T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V435E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "N447D"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "L452I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D460N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "R461K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q480E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K530R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S39C"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S57N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "I84M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "S119T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "V201I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T206S"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "A265V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "D286N"
+      }
+    ], 
+    "inputSequence": {
+      "header": "B.JP.2001.DR388.AB289590"
+    }
+  }, 
+  {
+    "mutations": [
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "T12P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "R41K"
+      }, 
+      {
+        "primaryType": "Major", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "M46I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I62V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "L63P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I64V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "T74A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "PR"
+        }, 
+        "text": "I93L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "E6D"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V35I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "S68G"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "I135T"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T139I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "G196E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "R211G"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V245E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A272P"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T286A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "P294Q"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K311R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "G333E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "Q334L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "E344D"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "A371V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T377K"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K390R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "T403M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "G436E"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "D460N"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "V467I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "H483Y"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "L491S"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "L517V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "RT"
+        }, 
+        "text": "K558R"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T124A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "T125A"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "I135V"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "I200M"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "V201I"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "I220L"
+      }, 
+      {
+        "primaryType": "Other", 
+        "gene": {
+          "name": "IN"
+        }, 
+        "text": "D270N"
+      }
+    ], 
+    "inputSequence": {
+      "header": "B.JP.2000.117.AB428551"
+    }
+  }
+]
