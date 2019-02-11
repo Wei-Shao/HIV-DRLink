@@ -1,0 +1,8 @@
+inputSequence {
+header,
+},
+mutations {
+gene {name}
+primaryType
+text
+}
