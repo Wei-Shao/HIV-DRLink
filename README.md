@@ -1,5 +1,6 @@
 # HIV-DRLink
 HIV-DRLink_github.pl is a script that detects and calculates Linked HIV drug resistant mutations on single HIV genomes. There are two steps to run it. The first step is to obtain HIV1 drug resistance mutation information from Stanford HIVdb via a locally installed Python client SierraPy (https://hivdb.stanford.edu/page/webservice/). The second step is to use HIV-DRLink_github.pl to parse the output JSON file from HIVdb to calculate the linked or non-lined HIV1 drug resistance mutations.
-Step 1: submit sequences to Stanford HIVdb using simple_mutation.gql: sierrapy fasta input_file.fas simple_mutations.gql -o output.json Where input_file is a fasta sequence file and the output.json (or whatever names users prefer) is the output file of HIVdb.
+Step 1: submit sequences to Stanford HIVdb using simple_mutation.gql: sierrapy fasta input_file.fasta -g simple_mutations.gql -o output.json Where input_file is a fasta sequence file and the output.json (or whatever names users prefer) is the output file of HIVdb.
+Note, in case the above command line does not work, please try this command line: sierrapy fasta -g simple_mutations.gql -o output.json input_file.fasta
 Step 2: Run HIV-DRLink.pl on the output file, output.json, from step1 using the following command line: HIV-DRLink.pl  output.json
 In this package, there are four files, (1) This README file, (2) simple_mutations.gql, (3) HIV1B_pol_10seq.fas.json, an example JSON file, and (4) HIV-DRLink_github.pl
